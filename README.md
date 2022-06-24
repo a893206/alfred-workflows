@@ -10,3 +10,4 @@
 
 ## [Youdao Translate](https://github.com/wensonsmith/YoudaoTranslator)
 
+## [Kill Process](https://github.com/ngreenstein/alfred-process-killer)
