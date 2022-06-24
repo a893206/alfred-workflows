@@ -11,3 +11,5 @@
 ## [Youdao Translate](https://github.com/wensonsmith/YoudaoTranslator)
 
 ## [Kill Process](https://github.com/ngreenstein/alfred-process-killer)
+
+## [NewPath](https://github.com/vitorgalvao/alfred-workflows/tree/master/NewPath)
